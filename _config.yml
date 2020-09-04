@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: ["My Personal Web Page"]
 name: ["Hamed Nazari"]
 description: ["This web page is dedicated to my online CV."]
-logo: ["/assets/images/me.jpg"]
+logo: "/assets/images/me.jpg"
