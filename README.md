@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to My Personal Web Page
 
-You can use the [editor on GitHub](https://github.com/hamednz91/hnazari.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am Hamed Nazari. I have studied computer engineering and been researching for more than 8 years. Here, you can find my occupational and educational achievements. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
